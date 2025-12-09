@@ -10,4 +10,4 @@ Milch
 2xSemmerl
 Gurke
 Fanta
-Bier
+NoNameBier
